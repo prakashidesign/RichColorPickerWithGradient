@@ -1,0 +1,6 @@
+framework module Pods_GradientColorPicker_GradientColorPickerUITests {
+  umbrella header "Pods-GradientColorPicker-GradientColorPickerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

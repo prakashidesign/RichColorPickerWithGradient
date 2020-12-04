@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_GradientColorPicker_GradientColorPickerUITests : NSObject
+@end
+@implementation PodsDummy_Pods_GradientColorPicker_GradientColorPickerUITests
+@end
